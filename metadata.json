@@ -1,0 +1,9 @@
+{
+  "name": "Ruway",
+  "description": "Aplicación para alertas de acoso en transporte público, fomentando la cultura de la bondad",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
